@@ -1,6 +1,8 @@
 ----------------------------------------
 -- KryptonForce102
--- Written for:
+-- Written for: https://forum.crazyblox.games/t/fe2-dev-tutorial-1-how-to-add-animated-water-to-your-map/43915
+-- Created: 24/10/2021 @ 12:30 PM (AEST)
+-- Updated: 24/10/2021 @ 12:30 PM (AEST)
 
 --[[
 
