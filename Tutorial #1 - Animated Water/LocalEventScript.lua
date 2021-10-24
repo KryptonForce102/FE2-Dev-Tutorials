@@ -74,4 +74,6 @@ function animateWater(waterObject, animateSpeed) -- 6, 7, 8
 	end)
 end
 
-animateWater(workspace.MapMakingKit.Intro._Water1, 4)
+
+local map = workspace.Multiplayer:WaitForChild("Map") -- 25
+animateWater(map.Intro._Water1, 4) -- 26
