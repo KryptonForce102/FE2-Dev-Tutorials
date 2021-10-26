@@ -1,8 +1,8 @@
 ----------------------------------------
 -- KryptonForce102
 -- Written for: https://forum.crazyblox.games/t/fe2-dev-tutorial-2-how-to-add-camera-manipulation-to-your-map/43988
--- Created: 16/10/2021 @ 9:10 PM (AEST)
--- Updated: 16/10/2021 @ 9:10 PM (AEST)
+-- Created: 26/10/2021 @ 9:10 PM (AEST)
+-- Updated: 26/10/2021 @ 9:10 PM (AEST)
 
 --[[
 Copyright (c) 2021 KryptonForce102
